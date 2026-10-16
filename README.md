@@ -35,6 +35,8 @@ Digital Kiosk Support: Provides touch-screen navigation at important locations i
 Emergency Navigation: Helps users locate emergency exits, first-aid facilities, and help desks.
 Architecture Diagram
       
+```
+
 
         PASSENGERS
              |
@@ -70,6 +72,8 @@ Architecture Diagram
        FINAL OUTPUT
  (Shortest Route, Facility Location,
   Accessibility & Train Information)
+```
+
 
 
 Technologies used in the architecture: React, Python, FastAPI, PostgreSQL, OpenStreetMap, and a graph-based route-finding algorithm.
